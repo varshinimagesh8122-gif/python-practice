@@ -95,7 +95,7 @@ s.open_camera()
 s.using_smart()
 s.edit()"""
 
-#multiple inheritance
+#multilevel inheritance
 """class vehicle:
     def start(self):
         print("vehicle start")
@@ -110,4 +110,5 @@ e=electric_car()
 c.start()
 c.drive()
 e.drive()
+
 e.charge()"""
